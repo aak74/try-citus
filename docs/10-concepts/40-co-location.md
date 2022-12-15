@@ -16,5 +16,3 @@
 Тогда JOIN может быть сделан в рамках одной ноды.
 
 [Подробно тут](https://docs.citusdata.com/en/v11.1/sharding/data_modeling.html#colocation).
-
-
