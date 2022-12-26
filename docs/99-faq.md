@@ -2,7 +2,7 @@
 
 
 ## Есть какие-то фичи, которые не поддерживаются Citus?
-[Документация](https://docs.citusdata.com/en/v11.1/faq/faq.html?highlight=hash#are-there-any-postgresql-features-not-supported-by-citus)
+[Документация](https://docs.citusdata.com/en/v11.1/faq/faq.html?are-there-any-postgresql-features-not-supported-by-citus)
 
 - Correlated subqueries
 - Recursive CTEs
